@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2980DD</color>
+    <color name="colorPrimaryDark">#2676CB</color>
+    <color name="colorAccent">#772980DD</color>
+    <color name="primary">#FFE24D</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#cccccc</color>
+    <color name="lightGrey">#eeeeee</color>
+    <color name="darkGrey">#555555</color>
+    <color name="toolbarTitleColor">@color/white</color>
+    <color name="backgroundLayout">@color/white</color>
+    <color name="shimmer">#dddddd</color>
+    <color name="textPrimary">#222428</color>
+    <color name="black">#000000</color>
+    <color name="textGrey">#EBEBEB</color>
+    <color name="red">#ff0000</color>
+</resources>

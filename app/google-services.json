@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19410403313",
+    "firebase_url": "https://itaxi-uz.firebaseio.com",
+    "project_id": "itaxi-uz",
+    "storage_bucket": "itaxi-uz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19410403313:android:dff436dd0af34ec21d4e50",
+        "android_client_info": {
+          "package_name": "icoder.itaxi.uz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19410403313-g7k5g0so1atrod44rg091e666jvpon4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "icoder.itaxi.uz",
+            "certificate_hash": "36b370f0e5b7c19fc8da27a558e5bfc55e210233"
+          }
+        },
+        {
+          "client_id": "19410403313-l1ot89cuntvausaosibphqi2mf0aashg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0dNPi9fjJFOmnalK-NqZJWV9nQcc3yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19410403313-l1ot89cuntvausaosibphqi2mf0aashg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
